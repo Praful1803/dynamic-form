@@ -26,9 +26,9 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone git@github.com:Praful1803/dynamic-form.git
    
-   cd your-project
+   cd dynamic-form
 
    npm install
 
